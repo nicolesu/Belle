@@ -1,6 +1,6 @@
-# Project Title
+# Belle
 
-Belle, your beauty bestie. 
+Your beauty bestie. 
 
 ## Description
 
@@ -8,34 +8,25 @@ A one-stop platform where beauty meets technology and community. Discover the ho
 
 ## Getting Started
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
 ### Installing
 
-* Download link for iOS users: [Belle]()
-* Download link for Android users: [Belle]()
-* For more information, please visit our official website.
-
+* [Download link]() for iOS users
+* [Download link]() for Android users
+* For more information, please visit our [official website]()
 
 ## Authors
 
 Contributors names and contact info
  
-[@Hejie](https://github.com/kikimasu1)
-[@Melody]()
-[@Nicole]()
-[@Ziqi]()
+* [@Hejie](https://github.com/kikimasu1)
+* [@Melody]()
+* [@Nicole]()
+* [@Ziqi]()
 
 ## Version History
 
 * 0.1
     * Initial Release
-
-## License
-
 
 
 ## Acknowledgments
