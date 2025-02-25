@@ -4,7 +4,10 @@ Your beauty bestie.
 
 ## Description
 
-A one-stop platform where beauty meets technology and community. Discover the hottest beauty shops by following your friends. Get personalized beauty recommendations by using cutting-edge AI. Belle helps you discover what is right for you. 
+* A one-stop platform where beauty meets technology and community. 
+* Discover the hottest beauty shops by following your friends. 
+* Get personalized beauty recommendations by using cutting-edge AI. 
+* **Belle** helps you discover what is right for you. 
 
 ## Getting Started
 
