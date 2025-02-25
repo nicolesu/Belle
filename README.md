@@ -16,7 +16,7 @@ A one-stop platform where beauty meets technology and community. Discover the ho
 
 ## Authors
 
-Contributors names and contact info in alphabetical order
+Contributors in alphabetical order
  
 * [@Hejie](https://github.com/kikimasu1)
 * [@Melody]()
